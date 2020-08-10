@@ -84,3 +84,6 @@ vi) js: Contains bootstrap JavaScript and JQuery files.
 
 
 
+DATABASE FILES:
+
+i) ece.sql: It is the exported file of my database.
